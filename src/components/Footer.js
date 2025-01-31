@@ -15,7 +15,7 @@ const Footer = () => {
         mt: "auto",
       }}
     >
-      <Container maxWidth="lg">
+      <Container maxWidth="xl">
         <Grid container spacing={4}>
           <Grid item xs={12} sm={4}>
             <Typography variant="h6" gutterBottom>
@@ -98,6 +98,7 @@ const Footer = () => {
             href="https://www.amoxtli.tech"
             target="_blank"
             rel="noopener noreferrer"
+            sx={{ color: "inherit", textDecoration: "underline" }}
           >
             Amoxtli Web Developers
           </Link>

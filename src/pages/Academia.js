@@ -42,143 +42,55 @@ const Academia = () => {
     {
       grade: "1° Grado",
       books: [
-        "Español 1 - Editorial Santillana",
-        "Matemáticas 1 - Editorial Santillana",
-        "Ciencias Naturales 1 - Editorial Santillana",
-        "Historia 1 - Editorial Santillana",
-        "Geografía 1 - Editorial Santillana",
-        "Inglés Level 1 - Cambridge Press",
+
       ],
       materials: [
-        "2 Cuadernos profesionales cuadro chico",
-        "2 Cuadernos profesionales rayados",
-        "Lápices #2",
-        "Colores de madera",
-        "Tijeras punta roma",
-        "Resistol adhesivo",
-        "Juego geométrico",
-        "Sacapuntas",
-        "Goma",
-        "Lápiz adhesivo",
+
       ],
     },
     {
       grade: "2° Grado",
       books: [
-        "Español 2 - Editorial Santillana",
-        "Matemáticas 2 - Editorial Santillana",
-        "Ciencias Naturales 2 - Editorial Santillana",
-        "Historia 2 - Editorial Santillana",
-        "Geografía 2 - Editorial Santillana",
-        "Inglés Level 2 - Cambridge Press",
+
       ],
       materials: [
-        "2 Cuadernos profesionales cuadro chico",
-        "2 Cuadernos profesionales rayados",
-        "Lápices #2",
-        "Colores de madera",
-        "Tijeras punta roma",
-        "Resistol adhesivo",
-        "Juego geométrico",
-        "Sacapuntas",
-        "Goma",
-        "Lápiz adhesivo",
+
       ],
     },
     {
       grade: "3° Grado",
       books: [
-        "Español 3 - Editorial Santillana",
-        "Matemáticas 3 - Editorial Santillana",
-        "Ciencias Naturales 3 - Editorial Santillana",
-        "Historia 3 - Editorial Santillana",
-        "Geografía 3 - Editorial Santillana",
-        "Inglés Level 3 - Cambridge Press",
+
       ],
       materials: [
-        "3 Cuadernos profesionales cuadro chico",
-        "2 Cuadernos profesionales rayados",
-        "Lápices #2",
-        "Colores de madera",
-        "Tijeras punta roma",
-        "Resistol adhesivo",
-        "Juego geométrico",
-        "Sacapuntas",
-        "Goma",
-        "Lápiz adhesivo",
-        "Calculadora básica",
+
       ],
     },
     {
       grade: "4° Grado",
       books: [
-        "Español 4 - Editorial Santillana",
-        "Matemáticas 4 - Editorial Santillana",
-        "Ciencias Naturales 4 - Editorial Santillana",
-        "Historia 4 - Editorial Santillana",
-        "Geografía 4 - Editorial Santillana",
-        "Inglés Level 4 - Cambridge Press",
+
       ],
       materials: [
-        "3 Cuadernos profesionales cuadro chico",
-        "2 Cuadernos profesionales rayados",
-        "Lápices #2",
-        "Colores de madera",
-        "Tijeras punta roma",
-        "Resistol adhesivo",
-        "Juego geométrico",
-        "Sacapuntas",
-        "Goma",
-        "Lápiz adhesivo",
-        "Calculadora científica",
+
       ],
     },
     {
       grade: "5° Grado",
       books: [
-        "Español 5 - Editorial Santillana",
-        "Matemáticas 5 - Editorial Santillana",
-        "Ciencias Naturales 5 - Editorial Santillana",
-        "Historia 5 - Editorial Santillana",
-        "Geografía 5 - Editorial Santillana",
-        "Inglés Level 5 - Cambridge Press",
+
       ],
       materials: [
-        "3 Cuadernos profesionales cuadro chico",
-        "3 Cuadernos profesionales rayados",
-        "Lápices #2",
-        "Colores de madera",
-        "Tijeras punta roma",
-        "Resistol adhesivo",
-        "Juego geométrico",
-        "Sacapuntas",
-        "Goma",
-        "Lápiz adhesivo",
-        "Calculadora científica",
+
       ],
     },
     {
       grade: "6° Grado",
       books: [
-        "Español 6 - Editorial Santillana",
-        "Matemáticas 6 - Editorial Santillana",
-        "Ciencias Naturales 6 - Editorial Santillana",
-        "Historia 6 - Editorial Santillana",
-        "Geografía 6 - Editorial Santillana",
-        "Inglés Level 6 - Cambridge Press",
+
       ],
       materials: [
-        "3 Cuadernos profesionales cuadro chico",
-        "3 Cuadernos profesionales rayados",
-        "Lápices #2",
-        "Colores de madera",
-        "Tijeras punta roma",
-        "Resistol adhesivo",
-        "Juego geométrico",
-        "Sacapuntas",
-        "Goma",
-        "Lápiz adhesivo",
-        "Calculadora científica",
+
       ],
     },
   ];
@@ -188,67 +100,28 @@ const Academia = () => {
     {
       grade: "Kinder 1",
       books: [
-        "Mi primer libro de trazos",
-        "Números y colores",
-        "Desarrollo de habilidades",
-        "Inglés Starter - Cambridge Kids",
-        "Libro de actividades creativas",
+
       ],
       materials: [
-        "Cuaderno de dibujo",
-        "Crayolas jumbo",
-        "Plastilina",
-        "Tijeras punta roma",
-        "Pegamento blanco",
-        "Mandil o bata",
-        "Lápices triangulares",
-        "Borrador",
-        "Sacapuntas jumbo",
+
       ],
     },
     {
       grade: "Kinder 2",
       books: [
-        "Lectoescritura inicial",
-        "Matemáticas básicas",
-        "Desarrollo cognitivo",
-        "Inglés Basic - Cambridge Kids",
-        "Arte y creatividad",
+
       ],
       materials: [
-        "Cuaderno de cuadros grandes",
-        "Cuaderno de dibujo",
-        "Crayolas",
-        "Plastilina",
-        "Tijeras punta roma",
-        "Pegamento blanco",
-        "Mandil o bata",
-        "Lápices triangulares",
-        "Borrador",
-        "Sacapuntas",
+
       ],
     },
     {
       grade: "Kinder 3",
       books: [
-        "Lectoescritura avanzada",
-        "Matemáticas preescolar",
-        "Desarrollo integral",
-        "Inglés Junior - Cambridge Kids",
-        "Expresión artística",
+
       ],
       materials: [
-        "Cuaderno de cuadros",
-        "Cuaderno de dibujo",
-        "Crayolas",
-        "Lápices de colores",
-        "Plastilina",
-        "Tijeras punta roma",
-        "Pegamento blanco",
-        "Mandil o bata",
-        "Lápices #2",
-        "Borrador",
-        "Sacapuntas",
+
       ],
     },
   ];
